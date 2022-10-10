@@ -1,4 +1,4 @@
-module github.com/dtlslink/water
+module github.com/mudler/water
 
 go 1.19
 

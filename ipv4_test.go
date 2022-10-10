@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dtlslink/water/waterutil"
+	"github.com/mudler/water/waterutil"
 )
 
 const BUFFERSIZE = 1522
